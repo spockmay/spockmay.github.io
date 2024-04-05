@@ -113,4 +113,4 @@ Other ideas are:
 # Further Reading
 A lot of the ideas here are from the [BSA Troop 308 Cookbook](https://www.troop308omaha.com/activities/cooking/).  They have a ton of other information there that is really helpful.
 
-The image at the top of this page is CC licensed by [Psilenz](https://www.deviantart.com/psilenz/art/Campfire-977004822).
+The image at the top of this page is [CC](https://creativecommons.org/licenses/by-nc-nd/3.0/) licensed by [Psilenz](https://www.deviantart.com/psilenz/art/Campfire-977004822).
