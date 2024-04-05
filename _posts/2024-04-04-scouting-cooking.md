@@ -22,7 +22,7 @@ This is a much longer topic than I have time to write tonight. In a nutshell tho
 7. Does anyone have allergies or dietary restrictions?
 8. What is your budget?
 
-Once you know the above answers grab a piece of papper. Make a table like the one below. Make sure that you plan healthy meals that cover all the basic food groups. And no, a baked potato and S'mores do not make a healthy meal.
+Once you know the above answers grab a piece of paper. Make a table like the one below. Make sure that you plan healthy meals that cover all the basic food groups. And while a baked potato and s'mores are yummy, they do not count as a healthy meal.
 
 | Day/Time | Meal | Ingredients | Equipment Needed | Instructions |
 | -------- | ---- | ----------- | ---------------- | ------------ |
