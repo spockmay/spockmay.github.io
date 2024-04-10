@@ -41,6 +41,7 @@ I have two nights of Scout camping coming up here soon. Weather is currently loo
   - medicine
  
 # Food Plan
+
 | Day/Time | Meal | Ingredients | Equipment Needed | Instructions |
 | -------- | ---- | ----------- | ---------------- | ------------ |
 | Fri PM | At home |  |  |  |
@@ -53,6 +54,7 @@ I have two nights of Scout camping coming up here soon. Weather is currently loo
 Summary goes here.
 
 ## Statistics
+
 | Stat | Day # | Score |
 | ---- | ----- | ----- |
 | Pack Weight | 0 | __ lb |
