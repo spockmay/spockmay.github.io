@@ -13,7 +13,8 @@ I have two nights of Scout camping coming up here soon. Weather is currently loo
 - hammock tent (woo - excited to try this out!)
 - 20F sleeping bag
 - backpack
-- plastic sheet
+- camping stool
+- plastic sheet/trash bags
 - headlamp (need to get a new one)
 - camp stove & white fuel (small)
 - lighter
@@ -21,7 +22,7 @@ I have two nights of Scout camping coming up here soon. Weather is currently loo
 - battery pack
 - book
 - First Aid kit (simple)
-- clothes - all in drybag
+- clothes - all in stuff sack
   - base layers
   - hat/gloves
   - 2 days of clothes
@@ -34,8 +35,9 @@ I have two nights of Scout camping coming up here soon. Weather is currently loo
   - tortilla
   - freezer bag
   - coffee beans and maker/cup
-- toiletries
+- toiletries - in drybag
   - contact case/sln
+  - glasses
   - deoderant
   - toothbrush/paste
   - medicine
