@@ -4,7 +4,7 @@ title: "Flying with the family"
 author: "spockmay"
 categories: journal
 tags: [travel]
-image: psilenz_campfire.jpg
+image: dallas_tx.jpg
 ---
 
 Today we traveled to Dallas to watch the eclipse. I've been looking foward to this trip for a long time now, probably 16 years or so. I remember sitting in the auditorium at NASA learning about the so-called "Great American Eclipse" that was going to occur in 2024. It seemed like a lifetime away, but I added it to my Google Calendar. Fast forward to a different life and about six months ago I booked flights, hotel, and rental car for the four of us. We had all been together in St. Louis along the line of totality in 2017 to see the last eclipse. The kids were small and don't remember much other than glimpses and echos. This time will hopefully be different.

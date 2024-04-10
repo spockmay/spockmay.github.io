@@ -4,7 +4,7 @@ title: "Dallas, Texas"
 author: "spockmay"
 categories: journal
 tags: [travel]
-image: psilenz_campfire.jpg
+image: dallas_tx.jpg
 ---
 
 After grabbing a quick bite at the hotel we went to Dealy Plaza. It was very surreal to walk around the Plaza where Kennedy had been killed. I've watched the Zapruder film so many times in high school, but it was bizarre to actually be there. To stand where Zapruder stood and recorded the video, to see the X on the road, to see the window on the 6th floor of the Book Depository. I'm glad we had finished watching the Kennedy documentary that the History Channel made in 2023 as it made more of an impact on the kids.
