@@ -26,6 +26,7 @@ The answer for this question is going to be much the same as the typical "ten es
 - light
 - tools
 - First Aid kit!
+
 And then obviously you need...a pack to hold everything!!
 
 Let's dig into each item in detail.
