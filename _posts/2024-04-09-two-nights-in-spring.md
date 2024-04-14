@@ -53,18 +53,28 @@ I have two nights of Scout camping coming up here soon. Weather is currently loo
 | Sun AM | PopTarts | strawberry | |  |
 
 # Recap
-Summary goes here.
+Great trip! Had some fun orienteering practice and competitions and was really proud of the Scouts! Hammock tent worked as well as I had expected.
+
+# Notes for next time
+Definately need the tarp (that was delivered on Friday night!) for the hammock tent. The winds Fri night were bitter and found all the little gaps to get through. Need an underquilt for sleeping at these temps again. Two pairs of socks are better than one!
+
+Need to be better about reviewing food lists prior to leaving, I forgot a few food items. Nothing critical, but annoying.
 
 ## Statistics
 
 | Stat | Day # | Score |
 | ---- | ----- | ----- |
-| Pack Weight | 0 | __ lb |
-| Sleep | 1 | __ hr, __ score |
-| Sleep | 2 | __ hr, __ score |
-| Temp | 1 | __/__ degF |
-| Temp | 2 | __/__ degF |
-| Distance | 1 | __ mi|
-| Distance | Total | __ mi|
-| Active Min | 1 | __ min|
-| Active Min | Total | __ min|
+| Pack Weight | 0 | 33 lb |
+| Sleep | 1 | 6:20 hr, 65 score |
+| Sleep | 2 | 4:59 hr, 65 score |
+| Temp | 1 | 49.8/45.9 degF |
+| Temp | 2 | 70.6/43.1 degF |
+| Temp | 3 | 71.0/42.3 degF |
+| Distance | 1 | 2.17 mi|
+| Distance | 2 | 11.93 mi|
+| Distance | 3 | 2.1 mi|
+| Distance | Total | 16.2 mi|
+| Active Min | 1 | 5 min|
+| Active Min | 2 | 314 min|
+| Active Min | 3 | 20 min|
+| Active Min | Total | 339 min|
