@@ -66,15 +66,15 @@ Need to be better about reviewing food lists prior to leaving, I forgot a few fo
 | ---- | ----- | ----- |
 | Pack Weight | 0 | 33 lb |
 | Sleep | 1 | 6:20 hr, 65 score |
-| Sleep | 2 | 4:59 hr, 65 score |
+| | 2 | 4:59 hr, 65 score |
 | Temp | 1 | 49.8/45.9 degF |
-| Temp | 2 | 70.6/43.1 degF |
-| Temp | 3 | 71.0/42.3 degF |
+| | 2 | 70.6/43.1 degF |
+| | 3 | 71.0/42.3 degF |
 | Distance | 1 | 2.17 mi|
-| Distance | 2 | 11.93 mi|
-| Distance | 3 | 2.1 mi|
-| Distance | Total | 16.2 mi|
+| | 2 | 11.93 mi|
+| | 3 | 2.1 mi|
+| | Total | 16.2 mi|
 | Active Min | 1 | 5 min|
-| Active Min | 2 | 314 min|
-| Active Min | 3 | 20 min|
-| Active Min | Total | 339 min|
+| | 2 | 314 min|
+| | 3 | 20 min|
+| | Total | 339 min|
