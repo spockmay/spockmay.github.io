@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Camping - 2 nights"
+title: "April Camping - 2 nights"
 author: "spockmay"
 categories: howto
 tags: [camping, scouts]
@@ -47,13 +47,15 @@ I have two nights of Scout camping coming up here soon. Weather is currently loo
 | Day/Time | Meal | Ingredients | Equipment Needed | Instructions |
 | -------- | ---- | ----------- | ---------------- | ------------ |
 | Fri PM | At home |  |  |  |
-| Sat AM | breakfast burrito & coffee | eggs, shredded cheese, beans, tobasco, onion, tortilla | freezer bag |  |
-| Sat noon | PB sandwich | premade + carrots | | |
-| Sat PM | Hobopack | kielbasa, potato, onion, carrot, celery, cajun seasoning, ketchup | spork, foil | | 
-| Sun AM | PopTarts | strawberry | |  |
+| Sat AM | breakfast burrito & coffee | eggs, <s>shredded cheese, beans, tobasco, onion, tortilla</s> | freezer bag |  |
+| Sat noon | Turkey sandwich | premade <s>+ carrots</s> | | |
+| Sat PM | Hobopack | kielbasa, potato, onion, carrot, celery, cajun seasoning, <s>ketchup</s> | spork, foil | | 
+| Sun AM | <s>PopTarts</s> | <s>strawberry</s> | |  |
 
 # Recap
-Great trip! Had some fun orienteering practice and competitions and was really proud of the Scouts! Hammock tent worked as well as I had expected.
+Great trip! Had some fun orienteering practice and competitions and was really proud of the Scouts! Hammock tent worked as well as I had expected. It rained/sleeted pretty hard Friday after days of rain so the entire site was mud. Scouts slid down hills frequency even on marked trails. 
+
+The Scouts stayed in Adirondack cabins; there were no safe trees nearby so I hung my hammock under a pavilion. 
 
 # Notes for next time
 Definately need the tarp (that was delivered on Friday night!) for the hammock tent. The winds Fri night were bitter and found all the little gaps to get through. Need an underquilt for sleeping at these temps again. Two pairs of socks are better than one!
@@ -67,9 +69,9 @@ Need to be better about reviewing food lists prior to leaving, I forgot a few fo
 | Pack Weight | 0 | 33 lb |
 | Sleep | 1 | 6:20 hr, 65 score |
 | | 2 | 4:59 hr, 65 score |
-| Temp | 1 | 49.8/45.9 degF |
-| | 2 | 70.6/43.1 degF |
-| | 3 | 71.0/42.3 degF |
+| Weather | 1 | 49.8/45.9 degF heavy rain/snow|
+| | 2 | 70.6/43.1 degF clear|
+| | 3 | 71.0/42.3 degF warm and sunny|
 | Distance | 1 | 2.17 mi|
 | | 2 | 11.93 mi|
 | | 3 | 2.1 mi|

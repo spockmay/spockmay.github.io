@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spring Backpacking - 2 nights"
+title: "April Backpacking - 2 nights"
 author: "spockmay"
 categories: howto
 tags: [backpacking, scouts]
@@ -85,7 +85,7 @@ What to do better
 | Pack Weight | 0 | __ lb |
 | Sleep | 1 | ___ hr, __ score |
 | | 2 | ___ hr, __ score |
-| Temp | 1 | ___/___ degF |
+| Weather | 1 | ___/___ degF |
 | | 2 | ___/___ degF |
 | | 3 | ___/___ degF |
 | Distance | 1 | __ mi|
