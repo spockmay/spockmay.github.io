@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Spring Backpacking - 2 nights"
+author: "spockmay"
+categories: howto
+tags: [camping, scouts]
+image: psilenz_campfire.jpg
+---
+
+About. Expected forecast. Water access.
+
+# Gear List
+
+# Food Plan
+
+| Day/Time | Meal | Ingredients | Equipment Needed | Instructions |
+| -------- | ---- | ----------- | ---------------- | ------------ |
+| Fri PM | At home |  |  |  |
+| Sat AM |  |  |  |  |
+| Sat noon |  |  | | |
+| Sat PM |  |  |  | | 
+| Sun AM |  |  | |  |
+
+# Recap
+Post trip highlights
+
+# Notes for next time
+What to do better
+
+## Statistics
+
+| Stat | Day # | Score |
+| ---- | ----- | ----- |
+| Pack Weight | 0 | __ lb |
+| Sleep | 1 | ___ hr, __ score |
+| | 2 | ___ hr, __ score |
+| Weather | 1 | ___/___ degF |
+| | 2 | ___/___ degF |
+| | 3 | ___/___ degF |
+| Distance | 1 | __ mi|
+| | 2 | __ mi|
+| | 3 | __ mi|
+| | Total | __ mi|
+| Active Min | 1 | _ min|
+| | 2 | __ min|
+| | 3 | __ min|
+| | Total | __ min|
