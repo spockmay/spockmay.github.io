@@ -19,11 +19,11 @@ I then decided to make it into a rudimentary compass (since I've been doing a lo
 
 Since there's only eight arrows I could write out all eight equations, but that's not fun. 
 
-<details><summary>So what's the appropriate mapping from orientation (takes values \[0, 360) ) and produces an arrow Image? </summary>
+<details><summary>So what's the appropriate mapping from orientation (takes values $$[0, 360)$$ ) and produces an arrow Image? </summary>
 
 If we number the arrows 0 to 8 starting at North and moving clockwise (with N being both 0 and 8) we can write:
 
-arrow_i = \ceil(\frac{orientation - 22.5}{45})
+$$arrow_i = \ceil(\frac{orientation - 22.5}{45})$$
 </details>
 
 With that, it's a simple matter to convert the index into an Image object of the correct type. The only "gotcha" was the fact that the arrow direction had to be flipped E->W from what you'd normally expect.  For example, if the micro:bit is "facing" due East, then heading is 45, but we want to draw an arrow point to the "left" on the micro:bit. To draw an arrow pointing left we use an Arrow_W.
