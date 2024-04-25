@@ -29,8 +29,34 @@ $$arrow_i = ceil(\frac{orientation - 22.5}{45})$$
 
 With that, it's a simple matter to convert the index into an Image object of the correct type. The only "gotcha" was the fact that the arrow direction had to be flipped E->W from what you'd normally expect.  For example, if the micro:bit is "facing" due East, then heading is 45, but we want to draw an arrow point to the "left" on the micro:bit. To draw an arrow pointing left we use an Arrow_W.
 
-<details>
-<summary>Full arrow compass code.</summary>
+[Code](#Arrow-Compass)
+
+# Improved Compass
+We can actually make a better compass by using the individual "pixels" on the micro:bit. There are 16 pixels along the outer ring allowing us to cut our maximum error in half (from 22.5deg to 11.25deg)! This time instead of converting the heading into 8 indices, we'll convert it into 16:
+
+$$i=ceil(\frac{orientation - 11.5}{22.5})$$
+
+But now instead of using the `Image.Arrow` we need to illuminate individual pixels. To do this, I'll use the `display.set_pixel` method where the pixel indices are given by the following image
+
+![microbit led array definition](https://cdn.sanity.io/images/ajwvhvgo/apps/68df93c56b28545fba2ed65e8e75e4e325ed2240-680x550.png?w=300&q=80&fit=max&auto=format)
+
+This time I just took an ugly approach to converting the index of the heading to a pair of (x,y) pixels. Note that I use `+1` in the `range` functions to make the actual values being compared against more obvious (i.e. `3 in range(0,3)` evaluates to `False`).
+
+This code works ok, but I had to play some games with clearing the display (only when the point has moved) to prevent flickering. You will also get flickering between two pixels when you are very close to a boundary.
+
+[Code](#Improved-Compass)
+
+# Ultimate Compass 
+Ok, I think I have one more improvement that we can make to this toy compass app. What if we use the intensity of the pixel to convey even more accuracy? So the brighter the pixel, the closer we are to exactly that value.
+
+On the micro:bit each pixel can take one of 10 intensity values (0 to 9 where 9 is fully on and 0 is fully off). We now need to define a function that converts heading to pixel intensity for all of the 16 pixels.
+
+To be continued...
+
+# Code
+The full code for the various examples is here!
+
+## Arrow Compass
 
 ```
 from microbit import *
@@ -67,23 +93,7 @@ while True:
         display.show(which_arrow(arrow_map[i]))
 ```
 
-</details>
-
-# Improved Compass
-We can actually make a better compass by using the individual "pixels" on the micro:bit. There are 16 pixels along the outer ring allowing us to cut our maximum error in half (from 22.5deg to 11.25deg)! This time instead of converting the heading into 8 indices, we'll convert it into 16:
-
-$$i=ceil(\frac{orientation - 11.5}{22.5}$$
-
-But now instead of using the `Image.Arrow` we need to illuminate individual pixels. To do this, I'll use the `display.set_pixel` method where the pixel indices are given by the following image
-
-![microbit led array definition](https://cdn.sanity.io/images/ajwvhvgo/apps/68df93c56b28545fba2ed65e8e75e4e325ed2240-680x550.png?w=300&q=80&fit=max&auto=format)
-
-This time I just took an ugly approach to converting the index of the heading to a pair of (x,y) pixels. Note that I use `+1` in the `range` functions to make the actual values being compared against more obvious (i.e. `3 in range(0,3)` evaluates to `False`).
-
-This code works ok, but I had to play some games with clearing the display (only when the point has moved) to prevent flickering. You will also get flickering between two pixels when you are very close to a boundary.
-
-<details>
-<summary>Improved accuracy compass code</summary>
+## Improved Compass
 
 ```
 from microbit import *
@@ -132,11 +142,4 @@ while True:
             display.set_pixel(index_to_x(i),index_to_y(i),9)
 ```
 
-</details>
-
-# Ultimate Compass 
-Ok, I think I have one more improvement that we can make to this toy compass app. What if we use the intensity of the pixel to convey even more accuracy? So the brighter the pixel, the closer we are to exactly that value.
-
-On the micro:bit each pixel can take one of 10 intensity values (0 to 9 where 9 is fully on and 0 is fully off). We now need to define a function that converts heading to pixel intensity for all of the 16 pixels.
-
-To be continued...
+## Ultimate Compass
