@@ -67,32 +67,41 @@ The trail is an approx 7-10 miles long loop with some sections of bouldering/roc
 | Day/Time | Meal | Ingredients | Equipment Needed | Instructions |
 | -------- | ---- | ----------- | ---------------- | ------------ |
 | Fri PM | At home |  |  |  |
-| Sat AM |  |  |  |  |
-| Sat noon |  |  | | |
-| Sat PM |  |  |  | | 
-| Sun AM |  |  | |  |
+| Sat AM | Bfast Sandwich | Bagel, Eggs, Sausage, Cheese | Boiled water |  |
+| Sat noon | Ramen |  | | |
+| Sat PM | MRE |  |  | | 
+| Sun AM | McDonalds |  | |  |
 
 # Recap
-Post trip highlights
+
+Friday night we arrived after driving a few hours to the trailhead. We walked for about a mile (in the twilight/dark) until we found a reasonably flat site to setup camp. Turned out to be a beautiful site near a river! We setup tents, threw bear-bags, and went to sleep. It soon started to rain.
+
+On Saturday we got up and cooked breakfast in the rain/under a tarp. The boys tried to cook over homemade can stoves to minimial success. We then got on the trail heading clockwise. The first mile was pretty steep to a gorgeous (but foggy) overlook. Eventually the rain stopped, we had a very nice hike through some beautiful early spring forest. There were numerous improvised creek crossings but minimal bushwhacking. Overall the hike was 6.3 miles.
+
+We got back to our camp site in the early evening, made dinner, chatted for a while before an early bed time. We got up early the next morning and packed quickly and hiked out.
 
 # Notes for next time
-What to do better
+
+- Make sure the hammock is relatively level. I ended up sliding down to the bottom the first night. 
+- The Sawyer Squeeze was a pretty darn nice water filter. Super easy to setup and only two fills of the bag to fill up a bottle
+- I was happy with my Starbucks Via Dark Roast instant coffee. I tried a few different types before the trip (to keep from taking my grinder) and it was the right choice.
+- The MRE was terrible, don't be conned into using these ever again - even if the Troop gives them to you! The heatpad didn't work so we ended up using a JetBoil.
 
 ## Statistics
 
 | Stat | Day # | Score |
 | ---- | ----- | ----- |
-| Pack Weight | 0 | __ lb |
-| Sleep | 1 | ___ hr, __ score |
-| | 2 | ___ hr, __ score |
-| Weather | 1 | ___/___ degF |
-| | 2 | ___/___ degF |
-| | 3 | ___/___ degF |
-| Distance | 1 | __ mi|
-| | 2 | __ mi|
-| | 3 | __ mi|
-| | Total | __ mi|
-| Active Min | 1 | _ min|
-| | 2 | __ min|
-| | 3 | __ min|
-| | Total | __ min|
+| Pack Weight | 0 | 40.2 lb |
+| Sleep | 1 | 6h36m, 73 score |
+| | 2 | 6h9m, 76 score |
+| Weather | 1 | ~70/50 degF |
+| | 2 | 68.1/48 degF |
+| | 3 | 57/49.8 degF |
+| Distance | 1 | 2.6 mi|
+| | 2 | 10.6 mi|
+| | 3 | 1.7 mi|
+| | Total | 14.9 mi|
+| Active Min | 1 | 14 min|
+| | 2 | 101 min|
+| | 3 | 2 min|
+| | Total | 117 min|
