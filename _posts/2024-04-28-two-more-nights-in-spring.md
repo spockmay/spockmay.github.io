@@ -7,7 +7,7 @@ tags: [camping, scouts]
 image: psilenz_campfire.jpg
 ---
 
-I have two more nights of Scout camping coming up here soon. Weather is currently looking like there will be rain most of the time we are on-site. Temps are in the mid/uppers 60s in the day, dropping down to 45F at night. Potable water is plentiful.
+I have two more nights of Scout camping coming up here soon. Weather is currently looking like there will be scattered storms most of the time we are on-site. Temps are in the lower/mid 70s in the day, dropping down to 50F at night. Potable water is plentiful.
 
 The theme of the trip is cooking! I'm looking forward to seeing what the girls come up with!
 
@@ -18,16 +18,17 @@ The theme of the trip is cooking! I'm looking forward to seeing what the girls c
 - plastic sheet/trash bags
 - headlamp
 - camp stove & white fuel (small)
+- pot/bowl kit
+- spork
 - lighter
 - water bottle
-- battery pack
+- battery pack & earbuds
 - book
 - First Aid kit (simple)
 - clothes - all in stuff sack
   - base layers
-  - gloves
   - 2 days of clothes
-  - extra socks
+  - extra set of clothes
 - food - in bag in troop cooler
   - seasonings/Tobasco
   - coffee beans and maker/cup
@@ -40,13 +41,7 @@ The theme of the trip is cooking! I'm looking forward to seeing what the girls c
 
 # Food Plan
 
-| Day/Time | Meal | Ingredients | Equipment Needed | Instructions |
-| -------- | ---- | ----------- | ---------------- | ------------ |
-| Fri PM | At home |  |  |  |
-| Sat AM |  |  |  |  |
-| Sat noon |  |  | | |
-| Sat PM |  |  |  | | 
-| Sun AM |  |  | |  |
+All meals will be handled by patrol. Just bring my spices/seasonings.
 
 # Recap
 Post trip highlights
