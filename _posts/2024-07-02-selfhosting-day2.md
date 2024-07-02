@@ -13,7 +13,7 @@ One of the big goals of my self-hosting project is to have a better way to view 
 ## Installation
 [Installing](https://immich.app/docs/install/docker-compose) the application was shockingly easy, even for a Docker-based deployment. I think there are literally three options to configure to get a default instance up and running.
 
-![immich welcome screen](assets/img/_welcome_to_immich.jpg)
+![immich welcome screen](https://spockmay.github.io/assets/img/_welcome_to_immich.jpg)
 
 After install, there are a few steps you perform using the local webapp [guide](https://immich.app/docs/install/post-install). This took maybe another 5 minutes and then I was ready to upload photos!
 
