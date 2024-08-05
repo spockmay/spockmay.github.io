@@ -50,7 +50,6 @@ Also, we have a few newer kids coming so we need to work on:
   - toothbrush/paste
   - medicine
 
-
 # Food Plan
 
 | Day/Time | Meal | Ingredients | Equipment Needed | Instructions |
@@ -71,7 +70,7 @@ What to do better
 
 | Stat | Day # | Score |
 | ---- | ----- | ----- |
-| Pack Weight | 0 | __ lb |
+| Pack Weight | 0 | 29.0 lb |
 | Sleep | 1 | ___ hr, __ score |
 | | 2 | ___ hr, __ score |
 | Weather | 1 | ___/___ degF |
