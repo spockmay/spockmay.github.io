@@ -14,9 +14,9 @@ The first option into my head is Dockerized Django apps running on Amazon ECS be
 That's about it as far as I can tell. Every other query I come up with for search (or even GenAI) leads to running scripts on an EC2 or Google Cloud instance.
 
 # To do list
-- [ ] build a Django UI for the script(s)
-- [ ] learn how to containerize the solution
-- [ ] put the Django app behind Google Auth
+- [x] build a Django UI for the script(s)
+- [x] learn how to containerize the solution
+- [x] put the Django app behind Google Auth
 - [ ] deploy to Amazon ECS
 - [ ] develop a way to maintain the code (what CI/CD do I need?)
 
@@ -80,7 +80,7 @@ The biggest open item is that the standard `@login_required` decorator doesn't r
 
 ## Time passes...
 So after a weekend not working on this I came back to it...and instead of getting the Google login button I got the Django default login page. ARGH! I spent hours messing with things until I realized a few points:
-1. The default Django login page was hiding the fact that my login page won't load due to not knowing how to parse the `{% provider_login_url 'google'%}` statement. 
+1. The default Django login page was hiding the fact that my login page won't load due to not knowing how to parse the `provider_login_url 'google'` statement. 
 2. I had rebuilt my application but had NOT re-created the local Social Application settings.
 So after fixing that, I was able to log in with Google and get back to where I was last week.
 
@@ -90,3 +90,4 @@ path("accounts/login/", login_template, name='login'),
 path('accounts/logout/', auth_views.LogoutView.as_view(template_name='users/logout.html'), name='logout'),
 ```
 
+# Deploy to Amazon ECS
