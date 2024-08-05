@@ -90,4 +90,7 @@ path("accounts/login/", login_template, name='login'),
 path('accounts/logout/', auth_views.LogoutView.as_view(template_name='users/logout.html'), name='logout'),
 ```
 
+With everything working the way I want now, I can rebuild and test the container. Woo!
+
 # Deploy to Amazon ECS
+[ECS](https://aws.amazon.com/ecs/) is a "fully managed container orchestration service". But it really sounds like I want to use [AWS Fargate](https://aws.amazon.com/fargate/), a "server-less, pay-as-you-go compute engine". Fargate is compatible with ECS. Need to do more research I guess...
