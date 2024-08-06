@@ -11,6 +11,7 @@ I've written dozens of Python scripts for work over the past decade that start o
 
 The first option into my head is Dockerized Django apps running on Amazon ECS behind Google Auth. Some other options:
 * Anaconda provides a free/low-cost Python console in the cloud called [PythonAnywhere](https://www.pythonanywhere.com/)
+
 That's about it as far as I can tell. Every other query I come up with for search (or even GenAI) leads to running scripts on an EC2 or Google Cloud instance.
 
 # To do list
