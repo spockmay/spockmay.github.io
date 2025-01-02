@@ -4,7 +4,7 @@ title: "New Year - New Sled"
 author: "spockmay"
 categories: journal
 tags: [scouts, woodworking]
-image: cyber_tree.png
+image: woodworking.png
 ---
 
 Happy New Year!
