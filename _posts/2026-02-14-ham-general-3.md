@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ham Radio General License"
+title: "Ham Radio General License 3"
 author: "spockmay"
 categories: journal
 tags: [antarctica, ham]
